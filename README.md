@@ -20,6 +20,8 @@ Or install it yourself as:
 
     $ gem install watchergg
 
+The watchergg gem also requires the PhantomJS headless browser to be in your path, which you can download [here](http://phantomjs.org/download.html).
+
 ## Usage
 
 TODO: Write usage instructions here
@@ -32,7 +34,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/watchergg.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jacobnisnevich/watchergg.
 
 
 ## License
