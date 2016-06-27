@@ -1,0 +1,433 @@
+{
+  "name": "DaCupcakeGod#1297",
+  "portrait": "https//static.watcher.gg/portraits/775.png",
+  "level": 37,
+  "career_stats": {
+    "winrate_percent": 0.5307,
+    "games_won": 121,
+    "games_lost": 107,
+    "average_score": 3.103,
+    "kda": 2.51,
+    "time_played": "~1d 4h",
+    "medals_total": 716,
+    "medals_gold": 317,
+    "medals_silver": 231,
+    "medals_bronze": 168,
+    "best_elims": 42,
+    "best_damage": 15757,
+    "best_healing": 10232,
+    "damage_dealt": 9.788,
+    "healing_done": 4.765,
+    "eliminations": 1.674,
+    "multi_kills": 22,
+    "objective_kills": 1107
+  },
+  "achievements": [
+    {
+      "name": "Die Die Die... Die",
+      "icon": "https//static.watcher.gg/achievements/2.png",
+      "description": "Kill 4 enemies with a single use of Reaper's Death Blossom in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Centenary",
+      "icon": "https//static.watcher.gg/achievements/342.png",
+      "description": "Win 100 games in quick or competitive play.",
+      "points": 40
+    },
+    {
+      "name": "Level 10",
+      "icon": "https//static.watcher.gg/achievements/343.png",
+      "description": "Reach level 10.",
+      "points": 20
+    },
+    {
+      "name": "Level 25",
+      "icon": "https//static.watcher.gg/achievements/344.png",
+      "description": "Reach level 25.",
+      "points": 20
+    },
+    {
+      "name": "Undying",
+      "icon": "https//static.watcher.gg/achievements/349.png",
+      "description": "Get a 20 player kill streak in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "Decorated",
+      "icon": "https//static.watcher.gg/achievements/352.png",
+      "description": "Earn 50 postgame medals in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "Blackjack",
+      "icon": "https//static.watcher.gg/achievements/353.png",
+      "description": "Earn 21 postgame cards in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "Waste Not, Want Not",
+      "icon": "https//static.watcher.gg/achievements/356.png",
+      "description": "Get 3 solo kills with a single clip of Reaper's shotguns in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Rocket Man",
+      "icon": "https//static.watcher.gg/achievements/361.png",
+      "description": "Get 2 killing blows with a single use of Soldier: 76's Helix Rockets in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Target Rich Environment",
+      "icon": "https//static.watcher.gg/achievements/362.png",
+      "description": "Kill 4 enemies with a single use of Soldier: 76's Tactical Visor in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Total Recall",
+      "icon": "https//static.watcher.gg/achievements/363.png",
+      "description": "Recover 400 health using Tracer's Recall without dying in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Charge!",
+      "icon": "https//static.watcher.gg/achievements/366.png",
+      "description": "Kill 4 enemies with a single use of Bastion's Configuration: Tank in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Simple Geometry",
+      "icon": "https//static.watcher.gg/achievements/367.png",
+      "description": "Get 2 killing blows with a single use of Hanzo's Scatter Arrow in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Giving You the Hook",
+      "icon": "https//static.watcher.gg/achievements/382.png",
+      "description": "Interrupt an enemy ultimate ability with Roadhog's Hook in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Power Overwhelming",
+      "icon": "https//static.watcher.gg/achievements/386.png",
+      "description": "Keep Zarya's Particle Cannon above 70 power for 60 seconds in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "The Power of Attraction",
+      "icon": "https//static.watcher.gg/achievements/387.png",
+      "description": "Capture 5 enemies in a single use of Zarya's Graviton Surge in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Group Health Plan",
+      "icon": "https//static.watcher.gg/achievements/390.png",
+      "description": "Restore 200 health for 5 players without dying as Mercy in quick or competitive play.",
+      "points": 15
+    },
+    {
+      "name": "Double Cap",
+      "icon": "https//static.watcher.gg/achievements/397.png",
+      "description": "Capture both objectives on a capture map without dying in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "Can't Touch This",
+      "icon": "https//static.watcher.gg/achievements/399.png",
+      "description": "Prevent the attacking team from touching the payload for 1 minute in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "Shutout",
+      "icon": "https//static.watcher.gg/achievements/400.png",
+      "description": "Win a control map without the enemy capturing an objective in quick or competitive play.",
+      "points": 20
+    },
+    {
+      "name": "World Traveler",
+      "icon": "https//static.watcher.gg/achievements/401.png",
+      "description": "Win a quick or competitive play game on 12 different maps.",
+      "points": 20
+    },
+    {
+      "name": "The Friend Zone",
+      "icon": "https//static.watcher.gg/achievements/402.png",
+      "description": "Play a quick or competitive play game in a group with a friend.",
+      "points": 20
+    }
+  ],
+  "hero_stats": [
+    {
+      "name": "Soldier: 76",
+      "portrait": "https//static.watcher.gg/heroes/110.png",
+      "winrate_percent": 0.561,
+      "games_won": 23,
+      "games_lost": 18,
+      "medals_total": 187,
+      "medals_gold": 88,
+      "medals_silver": 63,
+      "medals_bronze": 36,
+      "kda": 3.07,
+      "best_damage": 13463,
+      "best_elims": 33,
+      "accuracy": 0.3386,
+      "average_score": 3.592,
+      "time_played": 5
+    },
+    {
+      "name": "Bastion",
+      "portrait": "https//static.watcher.gg/heroes/21.png",
+      "winrate_percent": 0.625,
+      "games_won": 10,
+      "games_lost": 6,
+      "medals_total": 67,
+      "medals_gold": 28,
+      "medals_silver": 26,
+      "medals_bronze": 13,
+      "kda": 3.05,
+      "best_damage": 15757,
+      "best_elims": 23,
+      "accuracy": 0.20190000000000002,
+      "average_score": 4.951,
+      "time_played": 1
+    },
+    {
+      "name": "Lúcio",
+      "portrait": "https//static.watcher.gg/heroes/121.png",
+      "winrate_percent": 0.5789,
+      "games_won": 11,
+      "games_lost": 8,
+      "medals_total": 57,
+      "medals_gold": 35,
+      "medals_silver": 10,
+      "medals_bronze": 12,
+      "kda": 2.83,
+      "best_damage": 8908,
+      "best_elims": 22,
+      "accuracy": 0.244,
+      "average_score": 5.17,
+      "time_played": 2
+    },
+    {
+      "name": "Zarya",
+      "portrait": "https//static.watcher.gg/heroes/104.png",
+      "winrate_percent": 0.4706,
+      "games_won": 8,
+      "games_lost": 9,
+      "medals_total": 49,
+      "medals_gold": 25,
+      "medals_silver": 14,
+      "medals_bronze": 10,
+      "kda": 2.72,
+      "best_damage": 9251,
+      "best_elims": 42,
+      "accuracy": 0.07811,
+      "average_score": 2.583,
+      "time_played": 2
+    },
+    {
+      "name": "Mercy",
+      "portrait": "https//static.watcher.gg/heroes/4.png",
+      "winrate_percent": 0.5385,
+      "games_won": 21,
+      "games_lost": 18,
+      "medals_total": 49,
+      "medals_gold": 37,
+      "medals_silver": 8,
+      "medals_bronze": 4,
+      "kda": 2.56,
+      "best_damage": 10232,
+      "best_elims": 2,
+      "accuracy": 0.2704,
+      "average_score": 4.211,
+      "time_played": 4
+    },
+    {
+      "name": "Reaper",
+      "portrait": "https//static.watcher.gg/heroes/2.png",
+      "winrate_percent": 0.5652,
+      "games_won": 13,
+      "games_lost": 10,
+      "medals_total": 85,
+      "medals_gold": 27,
+      "medals_silver": 32,
+      "medals_bronze": 26,
+      "kda": 2.49,
+      "best_damage": 11756,
+      "best_elims": 41,
+      "accuracy": 0.23929999999999998,
+      "average_score": 4.491,
+      "time_played": 2
+    },
+    {
+      "name": "Roadhog",
+      "portrait": "https//static.watcher.gg/heroes/64.png",
+      "winrate_percent": 0.5832999999999999,
+      "games_won": 14,
+      "games_lost": 10,
+      "medals_total": 88,
+      "medals_gold": 30,
+      "medals_silver": 33,
+      "medals_bronze": 25,
+      "kda": 2.42,
+      "best_damage": 8509,
+      "best_elims": 27,
+      "accuracy": 0.47826,
+      "average_score": 4.548,
+      "time_played": 2
+    },
+    {
+      "name": "Winston",
+      "portrait": "https//static.watcher.gg/heroes/9.png",
+      "winrate_percent": 0.375,
+      "games_won": 3,
+      "games_lost": 5,
+      "medals_total": 24,
+      "medals_gold": 11,
+      "medals_silver": 8,
+      "medals_bronze": 5,
+      "kda": 2.27,
+      "best_damage": 6955,
+      "best_elims": 28,
+      "accuracy": 0.13032,
+      "average_score": 3.054,
+      "time_played": 1
+    },
+    {
+      "name": "Tracer",
+      "portrait": "https//static.watcher.gg/heroes/3.png",
+      "winrate_percent": 0.5,
+      "games_won": 7,
+      "games_lost": 7,
+      "medals_total": 45,
+      "medals_gold": 16,
+      "medals_silver": 15,
+      "medals_bronze": 14,
+      "kda": 2.15,
+      "best_damage": 9996,
+      "best_elims": 35,
+      "accuracy": 0.2945,
+      "average_score": 2.203,
+      "time_played": 2
+    },
+    {
+      "name": "Hanzo",
+      "portrait": "https//static.watcher.gg/heroes/5.png",
+      "winrate_percent": 0.4167,
+      "games_won": 5,
+      "games_lost": 7,
+      "medals_total": 31,
+      "medals_gold": 12,
+      "medals_silver": 9,
+      "medals_bronze": 10,
+      "kda": 1.74,
+      "best_damage": 10198,
+      "best_elims": 27,
+      "accuracy": 0.20550000000000002,
+      "average_score": 2.79,
+      "time_played": 1
+    },
+    {
+      "name": "McCree",
+      "portrait": "https//static.watcher.gg/heroes/66.png",
+      "winrate_percent": 0.3333,
+      "games_won": 3,
+      "games_lost": 6,
+      "medals_total": 22,
+      "medals_gold": 3,
+      "medals_silver": 10,
+      "medals_bronze": 9,
+      "kda": 1.6,
+      "best_damage": 8145,
+      "best_elims": 14,
+      "accuracy": 0.3746,
+      "average_score": 1.799,
+      "time_played": 54
+    },
+    {
+      "name": "Widowmaker",
+      "portrait": "https//static.watcher.gg/heroes/10.png",
+      "winrate_percent": 0.0,
+      "games_won": 0,
+      "games_lost": 2,
+      "medals_total": 3,
+      "medals_gold": 0,
+      "medals_silver": 2,
+      "medals_bronze": 1,
+      "kda": 1.5,
+      "best_damage": 4808,
+      "best_elims": 9,
+      "accuracy": 0.3829,
+      "average_score": 1.401,
+      "time_played": 12
+    },
+    {
+      "name": "Reinhardt",
+      "portrait": "https//static.watcher.gg/heroes/7.png",
+      "winrate_percent": 0.3333,
+      "games_won": 1,
+      "games_lost": 2,
+      "medals_total": 6,
+      "medals_gold": 2,
+      "medals_silver": 2,
+      "medals_bronze": 2,
+      "kda": 0.7,
+      "best_damage": 2661,
+      "best_elims": 7,
+      "accuracy": 0.40326999999999996,
+      "average_score": 2.775,
+      "time_played": 27
+    },
+    {
+      "name": "Junkrat",
+      "portrait": "https//static.watcher.gg/heroes/101.png",
+      "winrate_percent": 0.0,
+      "games_won": 0,
+      "games_lost": 0,
+      "medals_total": 1,
+      "medals_gold": 1,
+      "medals_silver": 0,
+      "medals_bronze": 0,
+      "kda": 0.67,
+      "best_damage": 1439,
+      "best_elims": 2,
+      "accuracy": 0.1026,
+      "average_score": 0.733,
+      "time_played": 4
+    },
+    {
+      "name": "Genji",
+      "portrait": "https//static.watcher.gg/heroes/41.png",
+      "winrate_percent": 0.0,
+      "games_won": 0,
+      "games_lost": 1,
+      "medals_total": 3,
+      "medals_gold": 1,
+      "medals_silver": 2,
+      "medals_bronze": 0,
+      "kda": 0.44,
+      "best_damage": 2626,
+      "best_elims": 3,
+      "accuracy": 0.18460000000000001,
+      "average_score": 1.346,
+      "time_played": 4
+    },
+    {
+      "name": "D.Va",
+      "portrait": "https//static.watcher.gg/heroes/122.png",
+      "winrate_percent": 0.0,
+      "games_won": 0,
+      "games_lost": 0,
+      "medals_total": 0,
+      "medals_gold": 0,
+      "medals_silver": 0,
+      "medals_bronze": 0,
+      "kda": 0.0,
+      "best_damage": 0,
+      "best_elims": 0,
+      "accuracy": 0.0,
+      "average_score": 0.0,
+      "time_played": 0
+    }
+  ]
+}

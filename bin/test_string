@@ -1,0 +1,1 @@
+File.write("test_out.json", Watchergg.get_user("DaCupcakeGod#1297").to_json)
